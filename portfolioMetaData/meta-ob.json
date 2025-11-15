@@ -3,7 +3,7 @@
   "description":"this is elzero template one website with HTML and CSS", 
   "imagePreview":"", 
   "images":[""], 
-  "public":false, 
+  "public":true, 
   "tags":["web"],
   "keywordsSEO":["elzero", "template one", "html", "css", "javascript"],
   "deployedLink":"https://khaledkaram510.github.io/template_one/", 
