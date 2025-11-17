@@ -2,7 +2,7 @@
   "name":"",
   "description":"this is elzero template one website with HTML and CSS", 
   "imagePreview":"", 
-  "images":[""], 
+  "images":[], 
   "public":true, 
   "tags":["web"],
   "keywordsSEO":["elzero", "template one", "html", "css", "javascript"],
